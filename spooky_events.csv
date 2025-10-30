@@ -1,0 +1,61 @@
+event_id,event_name,room_name,event_start,event_end
+1,Midnight Séance,Library,2024-10-31 20:15:00,2024-10-31 20:45:00
+2,Pumpkin Carving,Kitchen,2024-10-31 20:20:00,2024-10-31 21:00:00
+3,Ghost Story Hour,Ballroom,2024-10-31 20:30:00,2024-10-31 21:20:00
+4,Zombie Dance Party,Graveyard,2024-10-31 20:40:00,2024-10-31 21:10:00
+5,Vampire Blood Drive,Basement,2024-10-31 19:30:00,2024-10-31 20:15:00
+6,Witches' Brew Class,Kitchen,2024-10-31 19:15:00,2024-10-31 19:50:00
+7,Mummy Wrapping Contest,Attic,2024-10-31 19:20:00,2024-10-31 20:05:00
+8,Haunted House Tour,Ballroom,2024-10-31 19:40:00,2024-10-31 20:25:00
+9,Skeleton Dance-Off,Graveyard,2024-10-31 19:45:00,2024-10-31 20:30:00
+10,Werewolf Howling Contest,Basement,2024-10-31 20:00:00,2024-10-31 20:40:00
+11,Fortune Telling,Library,2024-10-31 19:50:00,2024-10-31 20:35:00
+12,Monster Karaoke,Ballroom,2024-10-31 21:00:00,2024-10-31 21:45:00
+13,Coffin Racing,Graveyard,2024-10-31 21:15:00,2024-10-31 21:55:00
+14,Potion Making Workshop,Kitchen,2024-10-31 21:05:00,2024-10-31 21:50:00
+15,Ghostly Treasure Hunt,Attic,2024-10-31 20:10:00,2024-10-31 20:55:00
+16,Vampire Ball,Ballroom,2024-10-31 21:30:00,2024-10-31 22:20:00
+17,Zombie Makeup Tutorial,Basement,2024-10-31 20:50:00,2024-10-31 21:35:00
+18,Spell Casting Competition,Library,2024-10-31 20:50:00,2024-10-31 21:40:00
+19,Monster Movie Marathon,Attic,2024-10-31 21:00:00,2024-10-31 22:30:00
+20,Graveyard Scavenger Hunt,Graveyard,2024-10-31 22:00:00,2024-10-31 22:45:00
+21,Haunted Cooking Show,Kitchen,2024-10-31 22:00:00,2024-10-31 22:40:00
+22,Spirit Photography Session,Ballroom,2024-10-31 22:25:00,2024-10-31 23:10:00
+23,Werewolf Speed Dating,Basement,2024-10-31 21:40:00,2024-10-31 22:25:00
+24,Psychic Reading Circle,Library,2024-10-31 21:45:00,2024-10-31 22:30:00
+25,Monster Mash Dance,Ballroom,2024-10-31 23:15:00,2024-10-31 23:59:00
+26,Poltergeist Pranks,Attic,2024-10-31 22:35:00,2024-10-31 23:20:00
+27,Cauldron Bubble Contest,Kitchen,2024-10-31 22:45:00,2024-10-31 23:30:00
+28,Tombstone Painting,Graveyard,2024-10-31 22:50:00,2024-10-31 23:35:00
+29,Dark Arts Demonstration,Basement,2024-10-31 22:30:00,2024-10-31 23:15:00
+30,Ancient Curse Reading,Library,2024-10-31 22:35:00,2024-10-31 23:25:00
+31,Midnight Feast,Kitchen,2024-10-31 23:35:00,2024-10-31 23:59:00
+32,Final Howl,Graveyard,2024-10-31 23:40:00,2024-10-31 23:59:00
+33,Broom Flying Lessons,Attic,2024-10-31 20:30:00,2024-10-31 21:15:00
+34,Undead Game Night,Basement,2024-10-31 23:20:00,2024-10-31 23:59:00
+35,Creepy Cocktails,Ballroom,2024-10-31 19:15:00,2024-10-31 19:55:00
+36,Shadow Puppet Theater,Library,2024-10-31 23:30:00,2024-10-31 23:59:00
+37,Frankenstein's Lab Tour,Basement,2024-10-31 19:25:00,2024-10-31 20:10:00
+38,Witch Hat Decorating,Attic,2024-10-31 21:20:00,2024-10-31 22:00:00
+39,Spooky Trivia Night,Library,2024-10-31 19:15:00,2024-10-31 19:45:00
+40,Phantom Piano Concert,Ballroom,2024-10-31 22:30:00,2024-10-31 23:10:00
+41,Haunted Hors d'oeuvres,Kitchen,2024-10-31 19:00:00,2024-10-31 19:40:00
+42,Cemetery Meditation,Graveyard,2024-10-31 19:15:00,2024-10-31 19:55:00
+43,Bat Watching,Attic,2024-10-31 19:00:00,2024-10-31 19:35:00
+44,Dungeon Exploration,Basement,2024-10-31 19:00:00,2024-10-31 19:50:00
+45,Cursed Object Show & Tell,Library,2024-10-31 20:40:00,2024-10-31 21:20:00
+46,Monster Meet & Greet,Ballroom,2024-10-31 20:10:00,2024-10-31 20:50:00
+47,Scary Story Slam,Graveyard,2024-10-31 21:20:00,2024-10-31 22:05:00
+48,Goth Fashion Show,Ballroom,2024-10-31 21:50:00,2024-10-31 22:35:00
+49,Frankenstein's Monster Workshop,Basement,2024-10-31 20:15:00,2024-10-31 21:00:00
+50,Spider Web Weaving,Attic,2024-10-31 22:05:00,2024-10-31 22:50:00
+51,Creepy Candle Making,Kitchen,2024-10-31 21:55:00,2024-10-31 22:35:00
+52,Ghost Tag,Graveyard,2024-10-31 20:15:00,2024-10-31 21:00:00
+53,Enchanted Book Club,Library,2024-10-31 21:25:00,2024-10-31 22:10:00
+54,Goblin Market,Ballroom,2024-10-31 19:20:00,2024-10-31 20:05:00
+55,Blood Moon Ritual,Graveyard,2024-10-31 23:00:00,2024-10-31 23:45:00
+56,Creaky Door Symphony,Attic,2024-10-31 23:25:00,2024-10-31 23:59:00
+57,Possessed Puppet Show,Basement,2024-10-31 21:05:00,2024-10-31 21:45:00
+58,Fog Machine Competition,Kitchen,2024-10-31 20:05:00,2024-10-31 20:45:00
+59,Ouija Board Tournament,Library,2024-10-31 22:15:00,2024-10-31 23:00:00
+60,Midnight Masquerade,Ballroom,2024-10-31 23:00:00,2024-10-31 23:50:00
