@@ -1,0 +1,301 @@
+sighting_id,monster_name,room_name,sighting_time,candy_collected
+1,Dracula,Ballroom,2024-10-31 20:15:00,5
+2,Witch Wanda,Library,2024-10-31 20:18:00,3
+3,Frankenstein,Kitchen,2024-10-31 20:22:00,8
+4,Dracula,Library,2024-10-31 20:30:00,4
+5,Ghost Gary,Ballroom,2024-10-31 20:35:00,2
+6,Witch Wanda,Ballroom,2024-10-31 20:40:00,6
+7,Frankenstein,Graveyard,2024-10-31 20:45:00,7
+8,Dracula,Kitchen,2024-10-31 20:50:00,9
+9,Mummy Mike,Library,2024-10-31 20:52:00,1
+10,Ghost Gary,Kitchen,2024-10-31 21:00:00,4
+11,Witch Wanda,Graveyard,2024-10-31 21:05:00,5
+12,Dracula,Ballroom,2024-10-31 21:15:00,3
+13,Vampire Vince,Attic,2024-10-31 20:16:00,7
+14,Werewolf Walt,Basement,2024-10-31 20:19:00,4
+15,Zombie Zoe,Ballroom,2024-10-31 20:23:00,6
+16,Skeleton Sam,Kitchen,2024-10-31 20:25:00,3
+17,Banshee Beth,Library,2024-10-31 20:28:00,5
+18,Ghost Gary,Graveyard,2024-10-31 20:32:00,8
+19,Mummy Mike,Attic,2024-10-31 20:36:00,2
+20,Dracula,Basement,2024-10-31 20:38:00,9
+21,Witch Wanda,Kitchen,2024-10-31 20:42:00,4
+22,Frankenstein,Ballroom,2024-10-31 20:47:00,6
+23,Vampire Vince,Library,2024-10-31 20:51:00,7
+24,Werewolf Walt,Graveyard,2024-10-31 20:54:00,5
+25,Zombie Zoe,Attic,2024-10-31 20:58:00,3
+26,Skeleton Sam,Basement,2024-10-31 21:02:00,8
+27,Banshee Beth,Kitchen,2024-10-31 21:06:00,4
+28,Ghost Gary,Ballroom,2024-10-31 21:10:00,6
+29,Mummy Mike,Library,2024-10-31 21:13:00,2
+30,Dracula,Graveyard,2024-10-31 21:17:00,9
+31,Witch Wanda,Attic,2024-10-31 21:20:00,5
+32,Frankenstein,Basement,2024-10-31 21:24:00,7
+33,Vampire Vince,Kitchen,2024-10-31 21:28:00,4
+34,Werewolf Walt,Ballroom,2024-10-31 21:31:00,6
+35,Zombie Zoe,Library,2024-10-31 21:35:00,3
+36,Skeleton Sam,Graveyard,2024-10-31 21:38:00,8
+37,Banshee Beth,Attic,2024-10-31 21:42:00,5
+38,Ghost Gary,Basement,2024-10-31 21:45:00,4
+39,Mummy Mike,Kitchen,2024-10-31 21:49:00,7
+40,Dracula,Ballroom,2024-10-31 21:52:00,9
+41,Witch Wanda,Library,2024-10-31 21:56:00,3
+42,Frankenstein,Graveyard,2024-10-31 22:00:00,6
+43,Vampire Vince,Attic,2024-10-31 22:03:00,8
+44,Werewolf Walt,Basement,2024-10-31 22:07:00,5
+45,Zombie Zoe,Kitchen,2024-10-31 22:11:00,4
+46,Skeleton Sam,Ballroom,2024-10-31 22:14:00,7
+47,Banshee Beth,Library,2024-10-31 22:18:00,2
+48,Ghost Gary,Graveyard,2024-10-31 22:22:00,9
+49,Mummy Mike,Attic,2024-10-31 22:25:00,6
+50,Dracula,Basement,2024-10-31 22:29:00,4
+51,Witch Wanda,Kitchen,2024-10-31 22:33:00,8
+52,Frankenstein,Ballroom,2024-10-31 22:36:00,5
+53,Vampire Vince,Library,2024-10-31 22:40:00,3
+54,Werewolf Walt,Graveyard,2024-10-31 22:44:00,7
+55,Zombie Zoe,Attic,2024-10-31 22:47:00,6
+56,Skeleton Sam,Basement,2024-10-31 22:51:00,4
+57,Banshee Beth,Kitchen,2024-10-31 22:54:00,9
+58,Ghost Gary,Ballroom,2024-10-31 22:58:00,2
+59,Mummy Mike,Library,2024-10-31 23:02:00,5
+60,Dracula,Graveyard,2024-10-31 23:05:00,8
+61,Witch Wanda,Attic,2024-10-31 23:09:00,4
+62,Frankenstein,Basement,2024-10-31 23:12:00,7
+63,Vampire Vince,Kitchen,2024-10-31 23:16:00,3
+64,Werewolf Walt,Ballroom,2024-10-31 23:20:00,6
+65,Zombie Zoe,Library,2024-10-31 23:23:00,5
+66,Skeleton Sam,Graveyard,2024-10-31 23:27:00,9
+67,Banshee Beth,Attic,2024-10-31 23:30:00,4
+68,Ghost Gary,Basement,2024-10-31 23:34:00,7
+69,Mummy Mike,Kitchen,2024-10-31 23:38:00,2
+70,Dracula,Ballroom,2024-10-31 23:41:00,8
+71,Witch Wanda,Library,2024-10-31 23:45:00,6
+72,Frankenstein,Graveyard,2024-10-31 23:48:00,5
+73,Vampire Vince,Attic,2024-10-31 23:52:00,4
+74,Werewolf Walt,Basement,2024-10-31 23:56:00,9
+75,Zombie Zoe,Kitchen,2024-10-31 19:15:00,3
+76,Skeleton Sam,Ballroom,2024-10-31 19:18:00,7
+77,Banshee Beth,Library,2024-10-31 19:22:00,5
+78,Ghost Gary,Graveyard,2024-10-31 19:25:00,6
+79,Mummy Mike,Attic,2024-10-31 19:29:00,4
+80,Dracula,Basement,2024-10-31 19:32:00,8
+81,Witch Wanda,Kitchen,2024-10-31 19:36:00,2
+82,Frankenstein,Ballroom,2024-10-31 19:40:00,9
+83,Vampire Vince,Library,2024-10-31 19:43:00,5
+84,Werewolf Walt,Graveyard,2024-10-31 19:47:00,7
+85,Zombie Zoe,Attic,2024-10-31 19:50:00,4
+86,Skeleton Sam,Basement,2024-10-31 19:54:00,6
+87,Banshee Beth,Kitchen,2024-10-31 19:58:00,3
+88,Ghost Gary,Ballroom,2024-10-31 20:01:00,8
+89,Mummy Mike,Library,2024-10-31 20:05:00,5
+90,Dracula,Graveyard,2024-10-31 20:08:00,7
+91,Witch Wanda,Attic,2024-10-31 20:12:00,4
+92,Frankenstein,Basement,2024-10-31 20:14:00,9
+93,Vampire Vince,Kitchen,2024-10-31 20:17:00,2
+94,Werewolf Walt,Ballroom,2024-10-31 20:21:00,6
+95,Zombie Zoe,Library,2024-10-31 20:24:00,5
+96,Skeleton Sam,Graveyard,2024-10-31 20:27:00,8
+97,Banshee Beth,Attic,2024-10-31 20:31:00,4
+98,Ghost Gary,Basement,2024-10-31 20:34:00,7
+99,Mummy Mike,Kitchen,2024-10-31 20:37:00,3
+100,Dracula,Ballroom,2024-10-31 20:41:00,9
+101,Witch Wanda,Library,2024-10-31 20:44:00,5
+102,Frankenstein,Graveyard,2024-10-31 20:48:00,6
+103,Vampire Vince,Attic,2024-10-31 20:53:00,8
+104,Werewolf Walt,Basement,2024-10-31 20:55:00,4
+105,Zombie Zoe,Kitchen,2024-10-31 20:59:00,7
+106,Skeleton Sam,Ballroom,2024-10-31 21:03:00,2
+107,Banshee Beth,Library,2024-10-31 21:07:00,9
+108,Ghost Gary,Graveyard,2024-10-31 21:11:00,5
+109,Mummy Mike,Attic,2024-10-31 21:14:00,6
+110,Dracula,Basement,2024-10-31 21:18:00,4
+111,Witch Wanda,Kitchen,2024-10-31 21:21:00,8
+112,Frankenstein,Ballroom,2024-10-31 21:25:00,3
+113,Vampire Vince,Library,2024-10-31 21:29:00,7
+114,Werewolf Walt,Graveyard,2024-10-31 21:32:00,5
+115,Zombie Zoe,Attic,2024-10-31 21:36:00,9
+116,Skeleton Sam,Basement,2024-10-31 21:39:00,4
+117,Banshee Beth,Kitchen,2024-10-31 21:43:00,6
+118,Ghost Gary,Ballroom,2024-10-31 21:46:00,8
+119,Mummy Mike,Library,2024-10-31 21:50:00,2
+120,Dracula,Graveyard,2024-10-31 21:53:00,7
+121,Witch Wanda,Attic,2024-10-31 21:57:00,5
+122,Frankenstein,Basement,2024-10-31 22:01:00,9
+123,Vampire Vince,Kitchen,2024-10-31 22:04:00,4
+124,Werewolf Walt,Ballroom,2024-10-31 22:08:00,6
+125,Zombie Zoe,Library,2024-10-31 22:12:00,3
+126,Skeleton Sam,Graveyard,2024-10-31 22:15:00,8
+127,Banshee Beth,Attic,2024-10-31 22:19:00,5
+128,Ghost Gary,Basement,2024-10-31 22:23:00,7
+129,Mummy Mike,Kitchen,2024-10-31 22:26:00,4
+130,Dracula,Ballroom,2024-10-31 22:30:00,9
+131,Witch Wanda,Library,2024-10-31 22:34:00,2
+132,Frankenstein,Graveyard,2024-10-31 22:37:00,6
+133,Vampire Vince,Attic,2024-10-31 22:41:00,5
+134,Werewolf Walt,Basement,2024-10-31 22:45:00,8
+135,Zombie Zoe,Kitchen,2024-10-31 22:48:00,4
+136,Skeleton Sam,Ballroom,2024-10-31 22:52:00,7
+137,Banshee Beth,Library,2024-10-31 22:55:00,3
+138,Ghost Gary,Graveyard,2024-10-31 22:59:00,9
+139,Mummy Mike,Attic,2024-10-31 23:03:00,5
+140,Dracula,Basement,2024-10-31 23:06:00,6
+141,Witch Wanda,Kitchen,2024-10-31 23:10:00,8
+142,Frankenstein,Ballroom,2024-10-31 23:13:00,4
+143,Vampire Vince,Library,2024-10-31 23:17:00,7
+144,Werewolf Walt,Graveyard,2024-10-31 23:21:00,2
+145,Zombie Zoe,Attic,2024-10-31 23:24:00,9
+146,Skeleton Sam,Basement,2024-10-31 23:28:00,5
+147,Banshee Beth,Kitchen,2024-10-31 23:31:00,6
+148,Ghost Gary,Ballroom,2024-10-31 23:35:00,4
+149,Mummy Mike,Library,2024-10-31 23:39:00,8
+150,Dracula,Graveyard,2024-10-31 23:42:00,3
+151,Witch Wanda,Attic,2024-10-31 23:46:00,7
+152,Frankenstein,Basement,2024-10-31 23:49:00,5
+153,Vampire Vince,Kitchen,2024-10-31 23:53:00,9
+154,Werewolf Walt,Ballroom,2024-10-31 23:57:00,4
+155,Zombie Zoe,Library,2024-10-31 19:16:00,6
+156,Skeleton Sam,Graveyard,2024-10-31 19:19:00,8
+157,Banshee Beth,Attic,2024-10-31 19:23:00,2
+158,Ghost Gary,Basement,2024-10-31 19:26:00,5
+159,Mummy Mike,Kitchen,2024-10-31 19:30:00,7
+160,Dracula,Ballroom,2024-10-31 19:33:00,4
+161,Witch Wanda,Library,2024-10-31 19:37:00,9
+162,Frankenstein,Graveyard,2024-10-31 19:41:00,3
+163,Vampire Vince,Attic,2024-10-31 19:44:00,6
+164,Werewolf Walt,Basement,2024-10-31 19:48:00,8
+165,Zombie Zoe,Kitchen,2024-10-31 19:51:00,5
+166,Skeleton Sam,Ballroom,2024-10-31 19:55:00,7
+167,Banshee Beth,Library,2024-10-31 19:59:00,4
+168,Ghost Gary,Graveyard,2024-10-31 20:02:00,9
+169,Mummy Mike,Attic,2024-10-31 20:06:00,2
+170,Dracula,Basement,2024-10-31 20:09:00,6
+171,Witch Wanda,Kitchen,2024-10-31 20:13:00,8
+172,Frankenstein,Ballroom,2024-10-31 20:16:00,5
+173,Vampire Vince,Library,2024-10-31 20:20:00,7
+174,Werewolf Walt,Graveyard,2024-10-31 20:23:00,4
+175,Zombie Zoe,Attic,2024-10-31 20:26:00,9
+176,Skeleton Sam,Basement,2024-10-31 20:29:00,3
+177,Banshee Beth,Kitchen,2024-10-31 20:33:00,6
+178,Ghost Gary,Ballroom,2024-10-31 20:36:00,8
+179,Mummy Mike,Library,2024-10-31 20:39:00,5
+180,Dracula,Graveyard,2024-10-31 20:43:00,7
+181,Witch Wanda,Attic,2024-10-31 20:46:00,4
+182,Frankenstein,Basement,2024-10-31 20:49:00,9
+183,Vampire Vince,Kitchen,2024-10-31 20:52:00,2
+184,Werewolf Walt,Ballroom,2024-10-31 20:56:00,6
+185,Zombie Zoe,Library,2024-10-31 21:01:00,5
+186,Skeleton Sam,Graveyard,2024-10-31 21:04:00,8
+187,Banshee Beth,Attic,2024-10-31 21:08:00,4
+188,Ghost Gary,Basement,2024-10-31 21:12:00,7
+189,Mummy Mike,Kitchen,2024-10-31 21:15:00,3
+190,Dracula,Ballroom,2024-10-31 21:19:00,9
+191,Witch Wanda,Library,2024-10-31 21:22:00,5
+192,Frankenstein,Graveyard,2024-10-31 21:26:00,6
+193,Vampire Vince,Attic,2024-10-31 21:30:00,8
+194,Werewolf Walt,Basement,2024-10-31 21:33:00,4
+195,Zombie Zoe,Kitchen,2024-10-31 21:37:00,7
+196,Skeleton Sam,Ballroom,2024-10-31 21:40:00,2
+197,Banshee Beth,Library,2024-10-31 21:44:00,9
+198,Ghost Gary,Graveyard,2024-10-31 21:47:00,5
+199,Mummy Mike,Attic,2024-10-31 21:51:00,6
+200,Dracula,Basement,2024-10-31 21:54:00,4
+201,Witch Wanda,Kitchen,2024-10-31 21:58:00,8
+202,Frankenstein,Ballroom,2024-10-31 22:02:00,3
+203,Vampire Vince,Library,2024-10-31 22:05:00,7
+204,Werewolf Walt,Graveyard,2024-10-31 22:09:00,5
+205,Zombie Zoe,Attic,2024-10-31 22:13:00,9
+206,Skeleton Sam,Basement,2024-10-31 22:16:00,4
+207,Banshee Beth,Kitchen,2024-10-31 22:20:00,6
+208,Ghost Gary,Ballroom,2024-10-31 22:24:00,8
+209,Mummy Mike,Library,2024-10-31 22:27:00,2
+210,Dracula,Graveyard,2024-10-31 22:31:00,7
+211,Witch Wanda,Attic,2024-10-31 22:35:00,5
+212,Frankenstein,Basement,2024-10-31 22:38:00,9
+213,Vampire Vince,Kitchen,2024-10-31 22:42:00,4
+214,Werewolf Walt,Ballroom,2024-10-31 22:46:00,6
+215,Zombie Zoe,Library,2024-10-31 22:49:00,3
+216,Skeleton Sam,Graveyard,2024-10-31 22:53:00,8
+217,Banshee Beth,Attic,2024-10-31 22:56:00,5
+218,Ghost Gary,Basement,2024-10-31 23:00:00,7
+219,Mummy Mike,Kitchen,2024-10-31 23:04:00,4
+220,Dracula,Ballroom,2024-10-31 23:07:00,9
+221,Witch Wanda,Library,2024-10-31 23:11:00,2
+222,Frankenstein,Graveyard,2024-10-31 23:14:00,6
+223,Vampire Vince,Attic,2024-10-31 23:18:00,5
+224,Werewolf Walt,Basement,2024-10-31 23:22:00,8
+225,Zombie Zoe,Kitchen,2024-10-31 23:25:00,4
+226,Skeleton Sam,Ballroom,2024-10-31 23:29:00,7
+227,Banshee Beth,Library,2024-10-31 23:32:00,3
+228,Ghost Gary,Graveyard,2024-10-31 23:36:00,9
+229,Mummy Mike,Attic,2024-10-31 23:40:00,5
+230,Dracula,Basement,2024-10-31 23:43:00,6
+231,Witch Wanda,Kitchen,2024-10-31 23:47:00,8
+232,Frankenstein,Ballroom,2024-10-31 23:50:00,4
+233,Vampire Vince,Library,2024-10-31 23:54:00,7
+234,Werewolf Walt,Graveyard,2024-10-31 23:58:00,2
+235,Zombie Zoe,Attic,2024-10-31 19:17:00,9
+236,Skeleton Sam,Basement,2024-10-31 19:20:00,5
+237,Banshee Beth,Kitchen,2024-10-31 19:24:00,6
+238,Ghost Gary,Ballroom,2024-10-31 19:27:00,4
+239,Mummy Mike,Library,2024-10-31 19:31:00,8
+240,Dracula,Graveyard,2024-10-31 19:34:00,3
+241,Witch Wanda,Attic,2024-10-31 19:38:00,7
+242,Frankenstein,Basement,2024-10-31 19:42:00,5
+243,Vampire Vince,Kitchen,2024-10-31 19:45:00,9
+244,Werewolf Walt,Ballroom,2024-10-31 19:49:00,4
+245,Zombie Zoe,Library,2024-10-31 19:52:00,6
+246,Skeleton Sam,Graveyard,2024-10-31 19:56:00,8
+247,Banshee Beth,Attic,2024-10-31 20:00:00,2
+248,Ghost Gary,Basement,2024-10-31 20:03:00,5
+249,Mummy Mike,Kitchen,2024-10-31 20:07:00,7
+250,Dracula,Ballroom,2024-10-31 20:10:00,4
+251,Witch Wanda,Library,2024-10-31 20:14:00,9
+252,Frankenstein,Graveyard,2024-10-31 20:17:00,3
+253,Vampire Vince,Attic,2024-10-31 20:21:00,6
+254,Werewolf Walt,Basement,2024-10-31 20:24:00,8
+255,Zombie Zoe,Kitchen,2024-10-31 20:27:00,5
+256,Skeleton Sam,Ballroom,2024-10-31 20:31:00,7
+257,Banshee Beth,Library,2024-10-31 20:34:00,4
+258,Ghost Gary,Graveyard,2024-10-31 20:37:00,9
+259,Mummy Mike,Attic,2024-10-31 20:41:00,2
+260,Dracula,Basement,2024-10-31 20:44:00,6
+261,Witch Wanda,Kitchen,2024-10-31 20:47:00,8
+262,Frankenstein,Ballroom,2024-10-31 20:51:00,5
+263,Vampire Vince,Library,2024-10-31 20:54:00,7
+264,Werewolf Walt,Graveyard,2024-10-31 20:57:00,4
+265,Zombie Zoe,Attic,2024-10-31 21:01:00,9
+266,Skeleton Sam,Basement,2024-10-31 21:05:00,3
+267,Banshee Beth,Kitchen,2024-10-31 21:09:00,6
+268,Ghost Gary,Ballroom,2024-10-31 21:13:00,8
+269,Mummy Mike,Library,2024-10-31 21:16:00,5
+270,Dracula,Graveyard,2024-10-31 21:20:00,7
+271,Witch Wanda,Attic,2024-10-31 21:23:00,4
+272,Frankenstein,Basement,2024-10-31 21:27:00,9
+273,Vampire Vince,Kitchen,2024-10-31 21:31:00,2
+274,Werewolf Walt,Ballroom,2024-10-31 21:34:00,6
+275,Zombie Zoe,Library,2024-10-31 21:38:00,5
+276,Skeleton Sam,Graveyard,2024-10-31 21:41:00,8
+277,Banshee Beth,Attic,2024-10-31 21:45:00,4
+278,Ghost Gary,Basement,2024-10-31 21:48:00,7
+279,Mummy Mike,Kitchen,2024-10-31 21:52:00,3
+280,Dracula,Ballroom,2024-10-31 21:55:00,9
+281,Witch Wanda,Library,2024-10-31 21:59:00,5
+282,Frankenstein,Graveyard,2024-10-31 22:03:00,6
+283,Vampire Vince,Attic,2024-10-31 22:06:00,8
+284,Werewolf Walt,Basement,2024-10-31 22:10:00,4
+285,Zombie Zoe,Kitchen,2024-10-31 22:14:00,7
+286,Skeleton Sam,Ballroom,2024-10-31 22:17:00,2
+287,Banshee Beth,Library,2024-10-31 22:21:00,9
+288,Ghost Gary,Graveyard,2024-10-31 22:25:00,5
+289,Mummy Mike,Attic,2024-10-31 22:28:00,6
+290,Dracula,Basement,2024-10-31 22:32:00,4
+291,Witch Wanda,Kitchen,2024-10-31 22:36:00,8
+292,Frankenstein,Ballroom,2024-10-31 22:39:00,3
+293,Vampire Vince,Library,2024-10-31 22:43:00,7
+294,Werewolf Walt,Graveyard,2024-10-31 22:47:00,5
+295,Zombie Zoe,Attic,2024-10-31 22:50:00,9
+296,Skeleton Sam,Basement,2024-10-31 22:54:00,4
+297,Banshee Beth,Kitchen,2024-10-31 22:57:00,6
+298,Ghost Gary,Ballroom,2024-10-31 23:01:00,8
+299,Mummy Mike,Library,2024-10-31 23:05:00,2
+300,Dracula,Graveyard,2024-10-31 23:08:00,7
